@@ -12,5 +12,5 @@
 
 ![image](https://github.com/Sungmyunghoon/AI_study/assets/112747810/fa75d2b5-8494-48ee-824c-05637777573f)
 
-# 텐서플로우(Tensorflow)
-# keras(신경망 API) => 신경망 모델을 쉽게 구축하고 훈련시키기 위해 제공되는 추상화된 도구와 인터페이스
+## 텐서플로우(Tensorflow)
+## keras(신경망 API) => 신경망 모델을 쉽게 구축하고 훈련시키기 위해 제공되는 추상화된 도구와 인터페이스
