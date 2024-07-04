@@ -4,7 +4,7 @@
 
 NVIDA + Cuda 를 사용할려면 자신이 갖고 있는 GPU의 성능을 알고있어야 함.
 
-# GPU 모델 확인
+## GPU 모델 확인
 
 GPU 모델에 따라 설치해야하는 CUDA와 cuDNN 버전이 다름
 
@@ -33,3 +33,5 @@ https://en.wikipedia.org/wiki/CUDA#GPUs_supported
 # pytorch 다운로드
 
 https://pytorch.org/get-started/locally/
+
+# CUDA Toolkit 설치
