@@ -16,6 +16,10 @@ GPU확인 방법 = 원도우 키 -> 장치 관리자 -> 디스플레이 어댑�
 
 ![image](https://github.com/Sungmyunghoon/AI_study/assets/112747810/99ff3fee-8e51-4c56-91cd-0b781e449941)
 
+# CUDA Tool Kit 다운로드 ( RTX 3050ti ) 11.6.0
+
+https://developer.nvidia.com/cuda-toolkit-archive
+
 # NVIDIA 그래픽 드라이버 설치
 
 GPU 하드웨어와 운영 체제 간의 통신을 가능하게 하는 역할
